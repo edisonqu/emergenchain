@@ -24,7 +24,7 @@ contract healthNFT is ERC721, Ownable{
         maxSupply = 1000;
         maxPerWallet = 1000;
         // set withdraw wallet
-        withdrawWallet = payable(0xBEf18A02B0fdB99bCA41F37e19DE97F5802f962c);
+        withdrawWallet = payable(0x3789C64cC3A8120a93E9483d526d44bE7305e455);
         
     }
 
